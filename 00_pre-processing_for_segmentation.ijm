@@ -1,5 +1,5 @@
-data_dir = "/home/aydoganlab/Documents/Andrew/cyclinB(m)_cdk1-fret/data/20220117_series5/";
-out_dir = "/home/aydoganlab/Documents/Andrew/cyclinB(m)_cdk1-fret/outputs/20220117_series5/mips/";
+data_dir = "/home/aydoganlab/Documents/Andrew/cyclinB(m)_cdk1-fret/data/20220117_series9/";
+out_dir = "/home/aydoganlab/Documents/Andrew/cyclinB(m)_cdk1-fret/outputs/20220117_series9/mips/";
 list = getFileList(data_dir);
 for(i=0; i<lengthOf(list);i++){
 	print("test_1");
